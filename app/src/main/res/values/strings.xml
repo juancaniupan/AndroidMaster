@@ -18,8 +18,12 @@
     <string name="description_sobrepeso">Estás por encima de lo óptimo  para tu peso y altura. </string>
     <string name="title_obesidad">Obesidad</string>
     <string name="description_obesidad">Estás MUY por encima de lo óptimo  para tu peso y altura. </string>
-    
+
     <string name="todo_title">Bienvenidos</string>
     <string name="todo_categories">Categorias:</string>
     <string name="todo_tasks">Tareas</string>
+    <string name="dialog_task_add_task">Añade la tarea</string>
+    <string name="todo_dialog_category_business">Negocio</string>
+    <string name="todo_dialog_category_personal">Personal</string>
+    <string name="todo_dialog_category_other">Otros</string>
 </resources>
